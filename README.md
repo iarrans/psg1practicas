@@ -1,4 +1,4 @@
-# psgpracticas
+# PSG_practicas
 repositorio para las prácticas de psg
 # Colaboradores
 - Isabel Arrans Vega
