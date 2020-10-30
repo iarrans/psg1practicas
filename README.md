@@ -6,3 +6,4 @@ repositorio para las prácticas de psg
 - Guillermo Lopéz Rosado
 - Juan Ramón Ostos Rubio
 - Francisco Javier Beltrán Rabadán
+- Pablo Colmenero Capote
