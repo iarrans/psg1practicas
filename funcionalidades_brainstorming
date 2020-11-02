@@ -1,45 +1,45 @@
 Funcionalidades y características v1:
 
-    Meteorología 5
+    Meteorología 5 
 
-    Calendario de campañas 1 2 4
+    Calendario de temporadas 1 2 4
 
     Calendario de cosechas 1 2 4
 
-    Notificaciones 2 3 4
+    Notificaciones 2 3 4 5
 
     Datos de empleados (visualización) 1 2 4
 
-    Datos de finanzas (visualización) 1 4
+    Balances (visualización) 1 4
 
-    Calendario de empleados 2 4 6
+    Control de jornada laboral 2 4 6
 
     Inventario (visualización) 3 4
 
-    Incidencias
+    Incidencias (Materiales) 3 4
 
-    Formulario para añadir a gente (gente contratada)
+    Formulario para añadir a gente (gente contratada) 1 2 4
 
-    Eliminar a gente (fin de contrato)
+    Eliminar a gente (fin de contrato) 1 2 4
 
-    Visualización gastos en saldos
+    Visualización gastos en salario 1 4
 
-    Visualización de ingresos
+    Visualización de ingresos 1 4 6
 
-    Visualización de zonas agrícolas en propiedad de la empresa
+    Visualización de zonas agrícolas en propiedad de la empresa 4 6
 
-    Ratio terreno por producto
+    Ratio terreno por producto 4 6
 
-    Ratio beneficio por producto
+    Ratio beneficio por producto 1 4 6
     
-    Temporadas más rentables
+    Temporadas más rentables 1 4 6
     
-    Información de temporada actual
+    Información de temporada actual 4 6
 
-    Detalles de productos
+    Detalles de productos 3 4 6
 
-    Detalles de encargos
+    Detalles de encargos 1 3 4
 
-    Detalles de clientes
+    Detalles de clientes 1 4
 
-    Ratio productividad cultivos
+    Ratio productividad cultivos 1 4 6
